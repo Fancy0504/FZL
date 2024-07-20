@@ -25,6 +25,6 @@
 ![笔记2](images/note2.jpg)
 ![笔记3](images/note3.jpg)
 
-##这是我的模型
+## 这是我的模型
 
 ![模型示例](videos/1234.jpg)
