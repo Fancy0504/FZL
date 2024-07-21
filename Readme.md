@@ -6,9 +6,9 @@
 
 ** How to be a good programmer ?**
 
-- * The frist step is* to learn the basic knowledge of the language .
+- **The frist step is* to learn the basic knowledge of the language**
 
-+ * The second step is* to practice the basic knowledge of the syntax .
++ *The second step is* to practice the basic knowledge of the syntax*
 
 ** The third step is* to enjoy it !
 
