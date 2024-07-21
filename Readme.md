@@ -22,7 +22,7 @@
 
 </font>
 
-![笔记1](images/5678.jpg)
+![笔记1](https://github.com/Fancy0504/FZL/blob/main/images/5678.jpg)
 ![笔记2](images/note2.jpg)
 ![笔记3](images/note3.jpg)
 
